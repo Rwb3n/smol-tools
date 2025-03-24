@@ -4,4 +4,4 @@
 
 ### Index
 
-- (pdfSPlit)[[https://github.com/Rwb3n/smol-tools/tree/main/pdfSplit]]
+- [pdfSPlit](https://github.com/Rwb3n/smol-tools/tree/main/pdfSplit)
